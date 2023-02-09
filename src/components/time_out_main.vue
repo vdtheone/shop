@@ -1,6 +1,6 @@
 <template lang="">
     <div>
-        <h1>Time out main</h1>
+        <!-- <h1>Time out main</h1> -->
         <time_out_example />
     </div>
 </template>
